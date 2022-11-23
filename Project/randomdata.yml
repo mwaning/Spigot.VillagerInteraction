@@ -1,0 +1,81 @@
+reputation:
+  '0': Disliked
+  '1': Neutral
+  '2': Friendly
+  '3': Honored
+  '4': Revered
+  '5': Exalted
+  
+names:
+- Adrian
+- Ainsley
+- Alex
+- Andy
+- Avery
+- Brady
+- Brooks
+- Chris
+- Corey
+- David
+- Darby
+- Drew
+- Ellis
+- Florian
+- Flynn
+- Frank
+- George
+- James
+- Jan
+- Joles
+- Jonathan
+- Joseph
+- Julian
+- Kai
+- Kars
+- Louis
+- Maurice
+- Max
+- Michael
+- Miller
+- Morgan
+- Nolan
+- Owen
+- Ralph
+- Raphael
+- Ray
+- Remy
+- Riley
+- Robin
+- Ryan
+- Taylor
+- Terry
+- Toby
+- Tristan
+- Wallace
+- Willie
+- Wrynn
+- Winston
+
+questrewards:
+
+greetings:
+- Hi there, %playername%! The name is %villagername%, %villagerprofession% of the
+  village. Care to help a fellow person?
+- Good to meet you, %playername%. My name is %villagername%. Do you have a moment?
+- Glad you're here, %playername%. I am %villagername%. Would you mind helping me out?
+- Fancy running into you here, %playername%. The others call me %villagername%. I
+  could use a helping hand.
+- Greetings, %playername%. Happy you're here! %villagername% is the name. I could
+  use a bit of help around here.
+- Good day, dear %playername%. My name is %villagername%. Do you have time to help
+  a fellow person out?
+- Hello %playername%. What a nice surprise. I'm %villagername%. Mind giving me a hand?
+
+questinprogressquestgiver:
+- ''
+
+questinprogressvillager:
+- ''
+
+thanks:
+- ''

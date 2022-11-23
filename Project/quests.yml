@@ -1,0 +1,56 @@
+1:
+  reputation: 1
+  type: fetch
+  class: ARMORER
+  name: Fetch Me Some Iron
+  description: The village is running low on defences. In order to keep up the production
+    of Iron Golems, we need to stock up on iron.
+  objective: Retrieve %amount%x &IRON_INGOT&
+  
+2:
+  reputation: 1
+  type: fetch
+  class: TOOLSMITH
+  name: Fetch Me Some Copper
+  description: To prepare the wooden houses for future storms I would like to craft
+    enough lightning rods. If the villagers are smart they will buy some! ...But I
+    have my doubts about that. Either way, could you help me get some copper?
+  objective: Retrieve %amount%x &COPPER_INGOT&
+  
+3:
+  reputation: 1
+  type: fetch
+  class: WEAPONSMITH
+  name: Fetch Me Some Coal
+  description: In order to supply the village with the finest weapons I need to keep
+    my forges burning, and I could use a little bit more coal for that.
+  objective: Retrieve %amount%x &COAL&
+  
+4:
+  reputation: 1
+  type: fetch
+  class: NONE
+  class: NITWIT
+  name: Fetch Me Some Eggs
+  description: To contribute to the village I love surprising my neighbors with some pumpkin pie, 
+    but I'm currently running low on eggs. 
+  objective: Retrieve %amount%x &EGG&
+  reward: PUMPKIN_PIE
+
+5:
+  reputation: 1
+  type: fetch
+  class: FLETCHER
+  name: Fetch Me Some Flint
+  description: My arrow supplies have been a bit slow recently because flint is hard to come by. Any
+    help is welcome.
+  objective: Retrieve %amount%x &FLINT&
+   
+6:
+  reputation: 1
+  type: fetch
+  class: FARMER
+  name: Fetch Me Some Wheat Seeds
+  description: The citizens need their bread and their cake, but wheat produce has been tight lately.
+    Could you cut the grass around the village and bring me any wheat seeds you may come across?
+  objective: Retrieve %amount%x &WHEAT_SEEDS&
